@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hipicon/static/css/main.d386e6e5.chunk.css",
+    "main.js": "/hipicon/static/js/main.d4ff587f.chunk.js",
+    "main.js.map": "/hipicon/static/js/main.d4ff587f.chunk.js.map",
+    "runtime-main.js": "/hipicon/static/js/runtime-main.fba98172.js",
+    "runtime-main.js.map": "/hipicon/static/js/runtime-main.fba98172.js.map",
+    "static/js/2.537c0a28.chunk.js": "/hipicon/static/js/2.537c0a28.chunk.js",
+    "static/js/2.537c0a28.chunk.js.map": "/hipicon/static/js/2.537c0a28.chunk.js.map",
+    "static/js/3.06ff81ac.chunk.js": "/hipicon/static/js/3.06ff81ac.chunk.js",
+    "static/js/3.06ff81ac.chunk.js.map": "/hipicon/static/js/3.06ff81ac.chunk.js.map",
+    "index.html": "/hipicon/index.html",
+    "static/css/main.d386e6e5.chunk.css.map": "/hipicon/static/css/main.d386e6e5.chunk.css.map",
+    "static/js/2.537c0a28.chunk.js.LICENSE.txt": "/hipicon/static/js/2.537c0a28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fba98172.js",
+    "static/js/2.537c0a28.chunk.js",
+    "static/css/main.d386e6e5.chunk.css",
+    "static/js/main.d4ff587f.chunk.js"
+  ]
+}
